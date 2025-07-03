@@ -37,14 +37,26 @@ I specialize in **full-stack development**, **cloud architecture**, and **AI-dri
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-Python, PHP (Laravel, CodeIgniter), C#, ASP.NET, JavaScript, TypeScript, Vue.js, C++, HTML, CSS
+🔥 **Programming Languages & Frameworks:**
+Python, PHP (Laravel 11+, CodeIgniter 3+), C#, VB.NET, ASP.NET MVC, C++, JavaScript, TypeScript, Vue.js, jQuery, Axios, HTML5, CSS3, Bootstrap, Tailwind, WordPress, Bash/Shell Scripting. Engineered across full-stack ecosystems with optimized component integration and secure design patterns.
 
-**Tools & Platforms**  
-MySQL, SQL Server, Git, WordPress, Windows Server, VPN, Azure, Jira
+🧠 **Database & Data Processing:**
+MySQL, SQL Server, Oracle, MS Access, MongoDB, XML, CSV, JSON, R Language, Data Warehousing, ETL. Designed complex relational structures and executed intelligent data flows for mission-critical analytics and decision systems.
 
-**Methodologies**  
-Agile/Scrum, DevOps, CI/CD, IT Governance, Digital Transformation
+☁️ **Cloud & DevOps Tools:**
+Microsoft Azure, AWS (basic), Docker, Git, CI/CD Pipelines, RESTful APIs, Postman, Jira, GitHub Actions, Webhooks. Built, deployed, and automated scalable systems using containerized workflows and cloud-native strategies.
+
+🛡️ **Networking & Systems Administration:**
+Windows Server, Unix/Linux, VPNs, VLANs, DNS, ACLs, Routing, Firewalls, Port Forwarding, IoT Device Integration. Hardened infrastructures and integrated cross-platform connectivity with advanced network security protocols.
+
+🤖 **AI & Automation:**
+OpenAI API, Python ML Libraries (scikit-learn, pandas), AI-driven PDF parsing, process automation, intelligent data extraction. Delivered autonomous systems and self-adaptive pipelines for healthcare, education, and business intelligence.
+
+🎨 **Design & Prototyping Tools:**
+Adobe Illustrator, Photoshop, Premiere, Figma, Canva, Wireframing, UI/UX Mockups. Delivered clean interfaces, intuitive user flows, and multimedia content that aligned with strategic product vision.
+
+🚀 **Soft Skills & Leadership:**
+Project Management, Agile/Scrum, Digital Transformation, IT Strategy, Cybersecurity, Technology Roadmap, Vendor Management, Cross-functional Team Leadership, IT Governance, Quality Assurance, Documentation. Known for bridging executive vision with hands-on execution at scale.
 
 ---
 
